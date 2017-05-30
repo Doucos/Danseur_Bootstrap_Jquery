@@ -1,0 +1,78 @@
+body {
+  background-color: rgb(125, 0, 0);
+}
+
+.tete {
+  background-color: rgb(101, 60, 17);
+  height: 200px;
+  margin-top: 50px;
+  border-radius: 100px;
+}
+
+.oeil_gauche {
+  background-color: black;
+  height: 30px;
+  margin-top: 50px;
+  border-radius: 20px;
+}
+
+.oeil_droit {
+  background-color: black;
+  height: 30px;
+  margin-top: 50px;
+  border-radius: 20px;
+}
+
+.bouche {
+  background-color: black;
+  height: 30px;
+  margin-top: 50px;
+  border-radius: 20px;
+}
+
+.cou {
+  background-color: black;
+  height: 50px;
+}
+
+.bras_gauche {
+  background-color: black;
+  height: 50px;
+  margin-top: 70px;
+}
+
+.torse {
+  background-color: black;
+  height: 250px;
+  border-radius: 50px;
+}
+
+.bras_droit {
+  background-color: black;
+  height: 50px;
+  margin-top: 70px;
+}
+
+.jambe_gauche {
+  background-color: red;
+  height: 150px;
+}
+
+.jambe_droite {
+  background-color: red;
+  height: 150px;
+  margin-left: 5px;
+}
+
+.pied_gauche {
+  background-color: black;
+  height: 50px;
+  border-bottom-left-radius: 50px;
+}
+
+.pied_droit {
+  background-color: black;
+  height: 50px;
+  border-bottom-right-radius: 50px;
+  margin-left: 5px;
+}
